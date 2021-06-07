@@ -6,7 +6,7 @@
 - 🎶 🇯🇵 Into peaceful music & Japanese <i>anime</i> culture
 
 
-## Some little bit more on self
+## A little bit more on self
 ```js
 const self = {
   focused_on_programming_languages:["python","javascript","java","kotlin"],
