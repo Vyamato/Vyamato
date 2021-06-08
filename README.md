@@ -1,4 +1,5 @@
-<img src="https://64.media.tumblr.com/4b3b0287ca43ce1021340cd692f65f9f/tumblr_mj7iufgKNi1qghl49o1_500.gifv" height="100" width="200"/>
+<!--<img src="https://64.media.tumblr.com/4b3b0287ca43ce1021340cd692f65f9f/tumblr_mj7iufgKNi1qghl49o1_500.gifv" height="100" width="200"/>-->
+<img src="https://media2.giphy.com/media/llarwdtFqG63IlqUR1/giphy.webp?cid=6c09b952dd73272e57e658ae7bf4f79c6c6e4443aee76736&rid=giphy.webp&ct=g" height="50" width="50"/>
 
 ## ~$ whoami
 - 👋 Hi there,<b>self.dev_alias(Vyamato);</b>
